@@ -92,6 +92,6 @@ Maze is drawn using the line() function of the graphics.h library.
 
 ## Images
 
-![one](https://pasteboard.co/JarVH2RZ0fVZ.jpg)
+![one](https://github.com/Ichigo27/Maze_Runner/blob/main/CG%20Mini%20Project_Page_11_Image_0001.jpg)
 
-![two](https://pasteboard.co/ThBFBhVnr4bz.jpg)
+![two](https://github.com/Ichigo27/Maze_Runner/blob/main/CG%20Mini%20Project_Page_11_Image_0002.jpg)
